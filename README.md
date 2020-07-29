@@ -8,7 +8,7 @@
  - 💻 I'm also a part of Developer Student Club JSS STU
  - 👯 I’m looking to collaborate on Flutter Projects
  - 💬 Ask me about Flutter
- - 📫 How to reach me: shubhamsharma1414@gmail.com
+ - 📫 How to reach me: sharmajsr7@gmail.com
  - 😄 Pronouns: he/him/his
  - ⚡ Fun fact: A shrimp's heart is in its head. 🦐
 
