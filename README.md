@@ -7,7 +7,7 @@
  - 🎓 Studied Computer Science & Engineering from JSS Science & Technology University.
  - 🔭 I’m currently working on few JS/Golang Projects 
  - 💬 Ask me about JS/Golang 
- - 📫 How to reach me: sharmajsr7@gmail.com
+ - 📫 How to reach me: shubhamsharma1414@gmail.com
  - 😄 Pronouns: he/him
 
 <!-- - 🌱 I’m currently learning -->
